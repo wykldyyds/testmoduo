@@ -1,0 +1,3 @@
+/home/ubuntu/testmoduo/build/CMakeFiles/server.dir
+/home/ubuntu/testmoduo/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/testmoduo/build/CMakeFiles/rebuild_cache.dir
